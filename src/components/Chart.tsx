@@ -2,7 +2,6 @@ import { DigiBarChart } from "@digi/arbetsformedlingen-react";
 
 const Chart = () => {
   return (
-    <>
       <div style={{ width: "400px", height: "200px" }}>
         <DigiBarChart
           afChartData={{
@@ -17,7 +16,6 @@ const Chart = () => {
           }}
         ></DigiBarChart>
       </div>
-    </>
   );
 };
 
