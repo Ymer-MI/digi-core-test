@@ -4,6 +4,7 @@
 :root {
     --digi--color--background--primary: #222;
     --digi--color--text--primary: #ddd;
+    --digi--color--text--link: #00aaff;
 
     background-color: var(--digi--color--background--primary);
     color: var(--digi--color--text--primary);
